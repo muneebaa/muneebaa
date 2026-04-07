@@ -1,54 +1,79 @@
-# Muneeba Dilawaze
+# 👋 Hi, I'm Muneeba Dilawaze
 
-**Frontend Developer (React & React Native)**
-
----
-
-### About Me
-
-Hello! I'm Muneeba Dilawaze, a highly skilled Frontend Developer with over 4 years of experience in creating dynamic web and mobile applications. My expertise lies in React.js and React Native, and I'm proficient in various other technologies and frameworks, including Next.js, Redux, Firebase, and Craft.js. Throughout my career, I have successfully completed numerous projects, delivering high-quality solutions to global clients. I am adept at working in agile environments and have a strong track record of effective client collaboration.
-
-When I'm not in full-on developer mode, you can find me painting and crafting different stuff. This multifaceted approach to life allows me to bring a unique perspective to my development projects, infusing them with a blend of technical prowess and creative ingenuity.
+🚀 **Full-Stack Engineer | React • React Native • Node.js • AI-powered Apps**
 
 ---
 
-### Skills
+## 🧠 About Me
 
-**Frontend Development:**  
-React.js • React Native • Next.js • Redux • Context API • Craft.js • Stripe • Tailwind CSS • Bootstrap • Ant Design • Material-UI • Push Notifications • Google Analytics
+I'm a full-stack engineer with **4+ years of experience** building scalable web and mobile applications.
 
-**Backend Development:**  
-Node.js • Express.js • MongoDB • Firebase
+I specialize in:
+- ⚡ Real-time systems (WebSockets, Socket.IO)
+- 🤖 AI-powered features (OpenAI APIs, automation workflows)
+- 📱 High-performance mobile apps (React Native)
+- 🌐 Scalable backend systems (Node.js, REST APIs)
 
-**Soft Skills:**  
-Communication • Fluent English • Creativity • Time Management
+I’ve worked on production-level applications including:
+- Telemedicine platforms  
+- AI assistants (email automation, scheduling, workflows)  
+- Marketplaces with payments & real-time chat  
+- Offline-first mobile apps  
 
----
-
-### Contact Me
-
-Feel free to reach out to me for any collaboration or queries:
-
-- **Email:** [muneeba.dilawaze@gmail.com](mailto:muneeba.dilawaze@gmail.com)
-- **Phone:** +92 3017900292
-- **LinkedIn:** [linkedin.com/in/muneeba-dilawaze](https://www.linkedin.com/in/muneeba-dilawaze)
-- **Portfolio:** [muneeba.netlify.app](http://muneeba.netlify.app/)
+💡 I enjoy solving complex problems, optimizing performance, and building products that people actually use.
 
 ---
 
-Thank you for visiting my GitHub profile! Let's build something amazing together!
+## 🛠 Tech Stack
 
-<!--
-**muneebaa/muneebaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend
+React.js • React Native • Next.js • Redux • Tailwind CSS • Material UI • Ant Design  
 
-Here are some ideas to get you started:
+### Backend
+Node.js • Express.js • REST APIs • MongoDB • Firebase  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Real-Time & Integrations
+Socket.IO • WebSockets • Stripe • Google Maps • Firebase Auth • Push Notifications  
+
+### AI
+OpenAI APIs • Prompt Engineering • AI Workflows • Chat Systems  
+
+### Tools
+Git • CI/CD • Agile • Redux • Google Analytics  
+
+---
+
+## 🚀 Featured Work
+
+🔹 **AI Personal Assistant**  
+Built an AI-powered assistant that automates emails, scheduling, and workflows.
+
+🔹 **Telemedicine App**  
+Led development of a healthcare app, improving delivery speed by **30%**.
+
+🔹 **Marketplace Platform**  
+Developed a system handling **1000+ listings** with real-time sync.
+
+🔹 **Real-Time Apps**  
+Built chat systems, booking platforms, and live dashboards using Socket.IO.
+
+---
+
+## 📈 What I Bring
+
+✔️ Production-ready code, not just prototypes  
+✔️ Performance optimization (reduced load times by 25–35%)  
+✔️ Strong API design & scalable architecture  
+✔️ Team leadership & mentoring experience  
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: muneeba.dilawaze@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/muneeba-dilawaze  
+- 🌐 Portfolio: http://muneeba.netlify.app  
+
+---
+
+✨ *Always open to exciting opportunities, collaborations, and building impactful products.*
