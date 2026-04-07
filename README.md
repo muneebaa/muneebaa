@@ -6,21 +6,26 @@
 
 ## 🧠 About Me
 
-I'm a full-stack engineer with **4+ years of experience** building scalable web and mobile applications.
+I'm a full-stack engineer with **4+ years of experience** building scalable web and mobile applications, with a strong focus on **real-world, production-grade systems**.
 
 I specialize in:
-- ⚡ Real-time systems (WebSockets, Socket.IO)
-- 🤖 AI-powered features (OpenAI APIs, automation workflows)
-- 📱 High-performance mobile apps (React Native)
-- 🌐 Scalable backend systems (Node.js, REST APIs)
+- ⚡ Architecting real-time systems (WebSockets, Socket.IO) for chat, tracking, and live dashboards  
+- 🤖 Building AI-powered applications using OpenAI APIs (automation workflows, assistants, intelligent features)  
+- 📱 Developing high-performance cross-platform mobile apps (React Native)  
+- 🌐 Designing scalable backend systems and APIs (Node.js, Express, MongoDB, Firebase)  
+- 🔗 Integrating complex third-party services (Stripe, Google Maps, social auth, push notifications)  
+- 🏗️ Leading development, mentoring teams, and shipping products faster with clean architecture & CI/CD  
 
-I’ve worked on production-level applications including:
-- Telemedicine platforms  
-- AI assistants (email automation, scheduling, workflows)  
-- Marketplaces with payments & real-time chat  
-- Offline-first mobile apps  
+I’ve built and delivered:
+- 🏥 **Telemedicine platform** (led a team, improved delivery speed by 30%)  
+- 🤖 **AI-powered personal assistant** (email automation, scheduling, workflows)  
+- 🛒 **Marketplace automation system** handling 1000+ listings with real-time sync  
+- 📸 **Photography booking platform** with payments, chat, and location-based discovery  
+- 🎟️ **Event & QR-based management system** with offline-first architecture  
+- 🔐 **Lost & Found platform** with real-time communication and admin tools  
+- 📚 **Interactive ebook reader** with highlights, notes, and offline support  
 
-💡 I enjoy solving complex problems, optimizing performance, and building products that people actually use.
+💡 I focus on building **scalable, user-centric products**, optimizing performance, and delivering features that have measurable impact.
 
 ---
 
@@ -43,22 +48,6 @@ Git • CI/CD • Agile • Redux • Google Analytics
 
 ---
 
-## 🚀 Featured Work
-
-🔹 **AI Personal Assistant**  
-Built an AI-powered assistant that automates emails, scheduling, and workflows.
-
-🔹 **Telemedicine App**  
-Led development of a healthcare app, improving delivery speed by **30%**.
-
-🔹 **Marketplace Platform**  
-Developed a system handling **1000+ listings** with real-time sync.
-
-🔹 **Real-Time Apps**  
-Built chat systems, booking platforms, and live dashboards using Socket.IO.
-
----
-
 ## 📈 What I Bring
 
 ✔️ Production-ready code, not just prototypes  
@@ -72,8 +61,6 @@ Built chat systems, booking platforms, and live dashboards using Socket.IO.
 
 - 📧 Email: muneeba.dilawaze@gmail.com  
 - 🔗 LinkedIn: https://www.linkedin.com/in/muneeba-dilawaze  
-- 🌐 Portfolio: http://muneeba.netlify.app  
-
 ---
 
 ✨ *Always open to exciting opportunities, collaborations, and building impactful products.*
