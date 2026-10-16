@@ -1,61 +1,42 @@
 # 👋 Hi, I'm Muneeba Dilawaze
 
-🚀 **Full-Stack Engineer | React • React Native • Node.js • AI-powered Apps**
+🚀 **Full Stack AI Engineer | Python Fast API | Eleven Labs | Twillio | Retell | AI Agents and Automations
 
 ---
 
 ## 🧠 About Me
 
-I'm a full-stack engineer with **4+ years of experience** building scalable web and mobile applications, with a strong focus on **real-world, production-grade systems**.
+I’m a hands-on AI and Full Stack Engineer focused on building production-ready voice and conversational AI systems that connect real users with real backend workflows.
 
-I specialize in:
-- ⚡ Architecting real-time systems (WebSockets, Socket.IO) for chat, tracking, and live dashboards  
-- 🤖 Building AI-powered applications using OpenAI APIs (automation workflows, assistants, intelligent features)  
-- 📱 Developing high-performance cross-platform mobile apps (React Native)  
-- 🌐 Designing scalable backend systems and APIs (Node.js, Express, MongoDB, Firebase)  
-- 🔗 Integrating complex third-party services (Stripe, Google Maps, social auth, push notifications)  
-- 🏗️ Leading development, mentoring teams, and shipping products faster with clean architecture & CI/CD  
+My work spans Voice AI, AI agents, healthcare applications, and workflow automation, with a strong engineering foundation across Python, FastAPI, Node.js, React, and React Native. I enjoy taking a real business process, mapping the edge cases, and turning it into a system that can operate reliably in production.
 
-I’ve built and delivered:
-- 🏥 **Telemedicine platform** (led a team, improved delivery speed by 30%)  
-- 🤖 **AI-powered personal assistant** (email automation, scheduling, workflows)  
-- 🛒 **Marketplace automation system** handling 1000+ listings with real-time sync  
-- 📸 **Photography booking platform** with payments, chat, and location-based discovery  
-- 🎟️ **Event & QR-based management system** with offline-first architecture  
-- 🔐 **Lost & Found platform** with real-time communication and admin tools  
-- 📚 **Interactive ebook reader** with highlights, notes, and offline support  
+I’ve worked on AI-powered applications involving appointment workflows, automation, tool integrations, human escalation, and multi-step agent interactions. I focus heavily on conversational state, confirmation before actions, failure recovery, latency, API reliability, and ensuring agents behave predictably when real-world inputs are messy.
 
-💡 I focus on building **scalable, user-centric products**, optimizing performance, and delivering features that have measurable impact.
+My experience includes:
 
----
+• Voice and Conversational AI agents
 
-## 🛠 Tech Stack
+• Python and FastAPI backend integrations
 
-### Frontend
-React.js • React Native • Next.js • Redux • Tailwind CSS • Material UI • Ant Design  
+• AI agents, LLM workflows, and tool calling
 
-### Backend
-Node.js • Express.js • REST APIs • MongoDB • Firebase  
+• Twilio, Retell, ElevenLabs and voice automation workflows
 
-### Real-Time & Integrations
-Socket.IO • WebSockets • Stripe • Google Maps • Firebase Auth • Push Notifications  
+• Healthcare and telemedicine applications
 
-### AI
-OpenAI APIs • Prompt Engineering • AI Workflows • Chat Systems  
+• State-based and multi-step workflows
 
-### Tools
-Git • CI/CD • Agile • Redux • Google Analytics  
+• Human-in-the-loop escalation
 
----
+• REST APIs and third-party integrations
 
-## 📈 What I Bring
+• Production monitoring, debugging, and CI/CD
 
-✔️ Production-ready code, not just prototypes  
-✔️ Performance optimization (reduced load times by 25–35%)  
-✔️ Strong API design & scalable architecture  
-✔️ Team leadership & mentoring experience  
+• React, React Native, Node.js, and MERN development
 
----
+I’m comfortable owning work end to end, from understanding customer requirements and designing the workflow to implementation, testing, debugging, and production delivery.
+
+I’m especially interested in building Voice AI systems where reliability matters: systems that can handle interruptions, ambiguity, failed tools, real customer conversations, and high-stakes workflows without losing context or taking unsafe actions.
 
 ## 📫 Contact Me
 
