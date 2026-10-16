@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muneeba Dilawaze
 
-🚀 **Full Stack AI Engineer | Python Fast API | Eleven Labs | Twillio | Retell | AI Agents and Automations
+🚀 ** Full Stack AI Engineer | Python Fast API | Eleven Labs | Twillio | Retell | AI Agents and Automations
 
 ---
 
